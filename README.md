@@ -1,9 +1,9 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{kneeltojin}"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{kneeltojin}?pet-id=1" width="1000" height="120"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kneeltojin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kneeltojin"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## Hi there 👋
